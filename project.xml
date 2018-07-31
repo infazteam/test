@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>2.0.0.0</version> 
-        <url>https://www.dariakayaphoto.com/test/Dragon_Tiger_Rulet_Okulu.exe</url> 
+        <url>https://github.com/infazteam/test/blob/master/Dragon_Tiger_Rulet_Okulu.exe</url> 
         <fileName>Dragon_Tiger_Rulet_Okulu.exe</fileName> 
         <md5>a1c47fc8647426dcf2f4829e86c97abf</md5>
         <description></description> 
