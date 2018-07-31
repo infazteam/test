@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>2.0.0.0</version> 
+        <version>3.0.0.0</version> 
         <url>https://raw.githubusercontent.com/infazteam/test/master/Dragon_Tiger_Rulet_Okulu.exe</url> 
         <fileName>Dragon_Tiger_Rulet_Okulu.exe</fileName> 
-        <md5>08b6fe2b0683bb4a15cec5fdf388e1ba</md5>
+        <md5>beb7218eec4743071ec0647be419954e</md5>
         <description></description> 
         <launchArgs></launchArgs> 
     </update> 
