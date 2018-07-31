@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>5.0.0.0</version> 
+        <version>2.0.0.0</version> 
         <url>http://http://dariakayaphoto.com/test/Dragon_Tiger_Rulet_Okulu.exe</url> 
         <fileName>Dragon_Tiger_Rulet_Okulu.exe</fileName> 
-        <md5>6eeda97b6bbf7f007e8f8764a8d8122d</md5>
+        <md5>993c1a9a40bd0125d006197b9a312ffa</md5>
         <description></description> 
         <launchArgs></launchArgs> 
     </update> 
