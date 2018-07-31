@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>2.0.0.0</version> 
+        <version>5.0.0.0</version> 
         <url>http://www.ruletokulu.com/guncelle/Dragon_Tiger_Rulet_Okulu.exe</url> 
         <fileName>Dragon_Tiger_Rulet_Okulu.exe</fileName> 
-        <md5>a1c47fc8647426dcf2f4829e86c97abf</md5>
+        <md5>6eeda97b6bbf7f007e8f8764a8d8122d</md5>
         <description></description> 
         <launchArgs></launchArgs> 
     </update> 
