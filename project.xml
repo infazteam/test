@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>2.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/infazteam/test/master/Dragon_Tiger_Rulet_Okulu.exe</url> 
+        <url>http://www.ruletokulu.com/guncelle/Dragon_Tiger_Rulet_Okulu.exe</url> 
         <fileName>Dragon_Tiger_Rulet_Okulu.exe</fileName> 
         <md5>a1c47fc8647426dcf2f4829e86c97abf</md5>
         <description></description> 
